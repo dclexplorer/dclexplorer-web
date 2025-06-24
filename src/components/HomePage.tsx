@@ -187,7 +187,7 @@ export const HomePage = () => {
               </Box>
             </Box>
             <Text>We are moving forward to public in stores. For now, we have an APK available to be installed with SideQuest in Meta Quest 2 and 3: <Link
-                href="https://github.com/decentraland/godot-explorer/releases/download/v0.11.0-alpha/meta-quest.apk"
+                href="https://github.com/decentraland/godot-explorer/releases/latest/download/decentraland-meta-quest.apk"
                 target="_blank"
                 rel="noopener noreferrer"
                 color={"#ff2d55"}>
